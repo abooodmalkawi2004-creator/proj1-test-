@@ -1,0 +1,5 @@
+com\mycompany\accountmanagerproject01\ILogger.class
+com\mycompany\accountmanagerproject01\AccountManager.class
+com\mycompany\accountmanagerproject01\IUserRepository.class
+com\mycompany\accountmanagerproject01\RegistrationStatus.class
+com\mycompany\accountmanagerproject01\IPasswordEncoder.class

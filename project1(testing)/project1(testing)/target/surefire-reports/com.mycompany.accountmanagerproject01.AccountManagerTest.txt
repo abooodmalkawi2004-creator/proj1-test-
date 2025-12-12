@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.mycompany.accountmanagerproject01.AccountManagerTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.374 s <<< FAILURE! - in com.mycompany.accountmanagerproject01.AccountManagerTest
+shouldReturnSuccess_WhenCredentialsAreValid  Time elapsed: 0.362 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <SUCCESS> but was: <null>
+	at com.mycompany.accountmanagerproject01.AccountManagerTest.shouldReturnSuccess_WhenCredentialsAreValid(AccountManagerTest.java:43)
+

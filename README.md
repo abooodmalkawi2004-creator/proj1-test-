@@ -1,1 +1,6 @@
-مهاب أكرم (2233686) عبد الرحمن يوسف(2234582)
+# Account Manager Project
+
+## Group Information
+* **Student 1:** [ِMohab akram] - [2233686]
+* **Student 2:** [abdlrahman yousef] - [2234582]
+
